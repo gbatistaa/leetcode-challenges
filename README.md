@@ -12,13 +12,14 @@ This repository is dedicated to the coding challenges I've tackled on LeetCode. 
 
 - Challenge 1863: [Sum of All Subset XOR Totals]
 
-## Getting Started
+## Contribuing
 
 To get started, clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/gbatistaa/leetcode-challenges.git
 
+```
 If you have any questions, feel free to reach out:
 
 - Email: gbatistadev@gmail.com
