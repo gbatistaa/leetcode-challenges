@@ -8,7 +8,7 @@ This repository is dedicated to the coding challenges I've tackled on LeetCode. 
 
 [Check out my repository here!](https://github.com/gbatistaa/leetcode-challenges)
 
-## Contents
+## Solved Challenges
 
 - Challenge 1863: [Sum of All Subset XOR Totals]
 
